@@ -1,0 +1,18 @@
+table, th, td {
+border-radius: 1px;
+padding: 2px;
+
+
+}
+.diversos{
+    background-color: rgb(252, 232, 8);
+}
+
+.produto{
+    background-color: rgb(10, 6, 245);
+    color: aliceblue;
+}
+.produto1{
+    background-color: blueviolet;
+    color: rgb(246, 246, 246);
+}
